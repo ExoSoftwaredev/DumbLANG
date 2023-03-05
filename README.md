@@ -2,62 +2,63 @@
 Dumb LANG is a scripting language that is well dumb.
 
 # Commands
-entcmd - prompts enter command prompt
-Syntax: entcmd
+
+# entcmd - prompts enter command prompt
+`Syntax: entcmd`
 
 # print - prints specified text to terminal
-Syntax: print.YOUR TEXT
+`Syntax: print.YOUR TEXT`
 
 # version/ver - shows version
-Syntax: version or ver
+`Syntax: version or ver`
 
 # wv - shows windows version
-Syntax: wv
+`Syntax: wv`
 
 # ndir - creates new directory
-Syntax: ndir.DIRECTORY NAME
+`Syntax: ndir.DIRECTORY NAME`
 
 # tofile - sends text to file
-Syntax: tofile.FILELOCATION TEXT
+`Syntax: tofile.FILELOCATION TEXT`
 
 # time - shows your time
-Syntax: time
+`Syntax: time`
 
 # wincmd - run windows commands
-Syntax: wincmd.CMD
+`Syntax: wincmd.CMD`
 
 # clear - clears screen
-Syntax: clear
+`Syntax: clear`
 
 # pause - pauses script
-Syntax: pause
+`Syntax: pause`
 
 # exit - exits script
-Syntax: exit
+`Syntax: exit`
 
 # ping - pings specified ip
-Syntax: ping.IP
+`Syntax: ping.IP`
 
 # title - changes window title
-Syntax: title.TITLE HERE
+`Syntax: title.TITLE HERE`
 
 # call - calls a .dumbl file
-Syntax: call.FILE
-
+`Syntax: call.FILE`
+`
 # delf - deletes file
-Syntax: delf.FILE
+`Syntax: delf.FILE`
 
 # deldir - delete specified directory
-Syntax: deldir.DIRECTORY
+`Syntax: deldir.DIRECTORY`
 
 # start - starts an exe file
-Syntax: start.APP
+`Syntax: start.APP`
 
 # credits - shows credits
-Syntax: credits
+`Syntax: credits`
 
 # ls - lists files in specified directory
-Syntax: ls.DIRECTORY
+`Syntax: ls.DIRECTORY`
 
 # tree - creates a tree or graphical list of file in specified directory
-Syntax: tree.DIRECTORY
+`Syntax: tree.DIRECTORY`
