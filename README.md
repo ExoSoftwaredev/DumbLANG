@@ -42,9 +42,6 @@ Dumb LANG is a scripting language that is well dumb.
 # title - changes window title
 `Syntax: title.TITLE HERE`
 
-# call - calls a .dumbl file
-`Syntax: call.FILE`
-`
 # delf - deletes file
 `Syntax: delf.FILE`
 
